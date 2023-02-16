@@ -1,6 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """ holds class City"""
-
 import models
 from models.base_model import BaseModel, Base
 from os import getenv

@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Allan Kimanzi - [Github](https://github.com/allankimanzi)  
-Calvin Mwangi  - [Github](https://github.com/MuneneCalvin)
+Marcus Imagwe - [Github](https://github.com/Dr-MarcusI)  
+Ikechukwu Nwamah- [Github](https://www.github.com/oishbdh)
 
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
